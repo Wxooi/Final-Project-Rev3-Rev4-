@@ -1,2 +1,11 @@
-# Final-Project-Rev3-Rev4-
-Includes all the core features and functionalities required for Review 3 and Review 4, including user registration, login, profile management, and robust form validation.
+# Final Project
+
+This is the final project submission. It includes the following features:
+- User management templates (HTML, CSS, JS)
+- Bootstrap styling
+- Validation logic
+
+## How to Run
+
+1. Open `index.html` in a browser.
+2. Navigate to other pages using the links.
